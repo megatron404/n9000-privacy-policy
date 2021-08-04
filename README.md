@@ -1,1 +1,1 @@
-# n9000-privacy-policyd
+# n9000-privacy-policy
